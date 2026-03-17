@@ -1,0 +1,1 @@
+langchain\nopenai\nchromadb\npandas\nnumpy\npython-dotenv
